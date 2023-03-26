@@ -1,0 +1,20 @@
+{
+  "customers" : [
+    {
+      "name": null,
+      "wish_dish": null
+    },
+    {
+      "name": null,
+      "wish_dish": "Dumplings"
+    },
+    {
+      "name": "Anton",
+      "wish_dish": null
+    },
+    {
+      "name": "Carton",
+      "wish_dish": "Dumplings"
+    }
+  ]
+}
